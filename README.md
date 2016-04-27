@@ -5,7 +5,7 @@ How to use:
 
     1. Add the KL25_Lpt_Time.c & KL25_Lpt_Time.h files into your project.
     
-    2. Copy the comments from the buttom of KL25_Lpt_Time.h file into the isr.h. (or change the MARCO of VECTOR_044 in vectors.h    with isr function. It is NOT a good method).
+    2. Copy the comments from the buttom of KL25_Lpt_Time.h file into the isr.h. (or change the MARCO of VECTOR_044 in vectors.h with isr function. It is NOT a good method).
     
     3. Call the functon Timer_Init to start the module.
     
